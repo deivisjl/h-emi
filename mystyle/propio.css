@@ -1,0 +1,87 @@
+.ti{
+	text-align: center;
+	font-family: helvetica;
+	font-size: 50px;
+	color: white;
+}
+.ti1{
+	text-align: center;
+	color: white;
+}
+#myfoot{
+	background:rgba(80,66,212,0.9);
+	/*background-image: url(../logo.png);*/
+}
+h1{
+	font-size: 20px;
+}
+body{
+	margin: 10px;
+	background-color: rgba(84,116,212,0.3);
+	background-image: url(../8.jpeg);
+}
+.table{
+	background: lightgrey;
+	
+}
+td{
+	font: bold;
+	font-size: 14px;
+}
+form{
+	background-color: rgba(275,60,100,0.7);
+	width: 380px;
+	height: 260px;
+}
+#rasoc{
+	
+	width: 600px;
+	height: 200px;
+}
+
+#rsus{
+	
+	width: 690px;
+	height: 200px;
+}
+#rega{
+	
+	width: 695px;
+	height: 200px;
+}
+
+#rprod{
+	width: 600px;
+	height: 230px;
+}
+#vprod{
+	width: 580px;
+	height: 200px;
+}
+#cprod{
+	width: 580px;
+	height: 200px;
+}
+
+#dven{
+	width: 580px;
+	height: 200px;
+}
+
+#chartdiv{
+	background-color:rgba(245,185,125,0.6);
+	line-height:16px;
+	font-family: helvetica;
+}
+
+#tuser > table{
+	padding: 10px;
+}
+
+#tuser>td, th{
+	
+}
+
+.login{
+	margin-top: 150px;
+}
